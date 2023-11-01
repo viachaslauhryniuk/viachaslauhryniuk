@@ -1,16 +1,24 @@
-### Hi there 👋
+### 👋 Hi there, I'm Viachaslau!
 
-<!--
-**viachaslauhryniuk/viachaslauhryniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 iOS App Developer | 🌐 Passionate about creating intuitive, user-friendly mobile experiences
 
-Here are some ideas to get you started:
+👨‍💻 I'm a results-driven mobile app developer with a keen eye for detail and a love for crafting seamless, user-centric applications. My journey in the world of mobile development has allowed me to turn ideas into beautiful, functional apps, bringing value to users worldwide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Here's what I bring to the table:
+
+- 📱 Proficiency in iOS app development, with experience in Swift, SwiftUI.
+- 🛠️ Strong problem-solving skills and a knack for tackling complex technical challenges.
+- 🤝 Collaborative team player, always eager to learn and share knowledge with fellow developers.
+- 📊 A data-driven mindset, ensuring apps are optimized for performance and user satisfaction.
+
+🔧 Some of my recent projects include:
+- Habit tracker: https://github.com/viachaslauhryniuk/habitTracker
+- Multiplication table helper: https://github.com/viachaslauhryniuk/EducationApp
+
+🌐 You can find me on the web:
+- 📧 Email: hryniukviachaslau@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/viachaslau-hryniuk-717368289/
+
+📚 I'm always eager to learn and collaborate on exciting new projects. Feel free to reach out if you'd like to discuss mobile development, share ideas, or work together!
+
+Let's connect and create amazing mobile experiences together! 🚀
