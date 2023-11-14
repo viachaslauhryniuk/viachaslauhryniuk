@@ -12,6 +12,7 @@
 - 📊 A data-driven mindset, ensuring apps are optimized for performance and user satisfaction.
 
 🔧 Some of my recent projects include:
+- Daily Dose Of Positivity: https://github.com/viachaslauhryniuk/DailyDoseOfPOsitivity
 - Habit tracker: https://github.com/viachaslauhryniuk/habitTracker
 - Multiplication table helper: https://github.com/viachaslauhryniuk/EducationApp
 
