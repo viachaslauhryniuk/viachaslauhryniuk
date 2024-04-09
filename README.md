@@ -6,7 +6,7 @@
 
 🌟 Here's what I bring to the table:
 
-- 📱 Proficiency in iOS app development, with experience in Swift, SwiftUI, Core Data, Firebase, Swift Data, MVVM, Multithreading, Networking.
+- 📱 Proficiency in iOS app development, with experience in Swift, SwiftUI, Core Data, Firebase, Swift Data, MVVM, Multithreading, Networking, CocoaPods.
 - 🛠️ Strong problem-solving skills and a knack for tackling complex technical challenges.
 - 🤝 Collaborative team player, always eager to learn and share knowledge with fellow developers.
 - 📊 A data-driven mindset, ensuring apps are optimized for performance and user satisfaction.
