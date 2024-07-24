@@ -12,7 +12,7 @@
 - 📊 A data-driven mindset, ensuring apps are optimized for performance and user satisfaction.
 
 🔧 Some of my recent projects include:
-- App for my university, that should be like a portable helper for a student: [Link](https://github.com/viachaslauhryniuk/czas-wolny-project-KCK)
+- App for my university, that should be like a portable helper for a student: [Link](https://github.com/viachaslauhryniuk/Czas-Wolny-Project)
 - Daily Dose Of Positivity: [Link](https://github.com/viachaslauhryniuk/DailyDoseOfPOsitivity)
 - Habit tracker: [Link](https://github.com/viachaslauhryniuk/habitTracker)
 
