@@ -1,26 +1,31 @@
 ### 👋 Hi there, I'm Viachaslau!
 
-📱 iOS App Developer | 🌐 Passionate about creating intuitive, user-friendly mobile experiences
+📱 iOS & visionOS Developer | ✨ Crafting intuitive mobile experiences
 
-👨‍💻 I'm a results-driven mobile app developer with a keen eye for detail and a love for crafting seamless, user-centric applications. My journey in the world of mobile development has allowed me to turn ideas into beautiful, functional apps, bringing value to users worldwide.
+👨‍💻 I'm a results-driven mobile app developer with a strong Informatics background, a keen eye for detail, and a love for crafting seamless, user-centric applications.
 
 🌟 Here's what I bring to the table:
 
-- 📱 Proficiency in iOS app development, with experience in Swift, SwiftUI, Core Data, Firebase, Swift Data, MVVM, Multithreading, Networking, CocoaPods, SwiftLint.
-- 🛠️ Strong problem-solving skills and a knack for tackling complex technical challenges.
-- 🤝 Collaborative team player, always eager to learn and share knowledge with fellow developers.
-- 📊 A data-driven mindset, ensuring apps are optimized for performance and user satisfaction.
+-   📱 Proficiency in **iOS & visionOS** development using **Swift** and **SwiftUI**.
+-   ⚙️ Solid understanding of **UIKit**, **Core Data**, **Firebase**, **Networking**, dependency management (SPM/CocoaPods), and testing (XCTest).
+-   📐 Experience with design patterns like **MVVM** and concepts like **Multithreading**.
+-   🛠️ Strong problem-solving skills and a knack for tackling complex technical challenges.
+-   🤝 Collaborative team player, always eager to learn and share knowledge.
+-   📊 A data-driven mindset, ensuring apps are optimized for performance and user satisfaction.
 
-🔧 Some of my recent projects include:
-- App for my university, that should be like a portable helper for a student: [Link](https://github.com/viachaslauhryniuk/Czas-Wolny-Project)
-- Daily Dose Of Positivity: [Link](https://github.com/viachaslauhryniuk/DailyDoseOfPOsitivity)
-- Habit tracker: [Link](https://github.com/viachaslauhryniuk/habitTracker)
+🚀 **Featured Projects:**
 
+*   **visionOS Portfolio Hub:** [Link](https://github.com/viachaslauhryniuk/visionOS-Portfolio-Hub) - My personal portfolio built natively for **visionOS**, showcasing spatial UI concepts and interactive navigation.
+*   **Czas Wolny (University Helper):** [Link](https://github.com/viachaslauhryniuk/Czas-Wolny-Project) - An iOS app designed as a portable helper for university students.
+*   **Daily Dose Of Positivity:** [Link](https://github.com/viachaslauhryniuk/DailyDoseOfPOsitivity) - An iOS app focused on fostering positivity and community.
+*   **Habit Tracker:** [Link](https://github.com/viachaslauhryniuk/habitTracker) - A straightforward habit tracking application for iOS.
 
-🌐 You can find me on the web:
-- 📧 Email: hryniukviachaslau@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/viachaslau-hryniuk-717368289/
+🌐 **Connect with Me:**
 
-📚 I'm always eager to learn and collaborate on exciting new projects. Feel free to reach out if you'd like to discuss mobile development, share ideas, or work together!
+*   📧 Email: hryniukviachaslau@gmail.com
+*   💼 LinkedIn: [Viachaslau Hryniuk](https://www.linkedin.com/in/viachaslau-hryniuk-717368289/)
+*   💻 GitHub: You're already here!
 
-Let's connect and create amazing mobile experiences together! 🚀
+📚 I'm always learning and eager to collaborate on exciting new mobile and spatial computing projects. Feel free to reach out if you'd like to discuss development, share ideas, or work together!
+
+Let's connect and create amazing experiences together! ✨
