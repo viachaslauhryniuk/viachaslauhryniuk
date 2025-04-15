@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Viachaslau!
 
-📱 iOS & visionOS Developer | ✨ Crafting intuitive mobile experiences
+📱 iOS Developer | ✨ Crafting intuitive mobile experiences
 
 👨‍💻 I'm a results-driven mobile app developer with a strong Informatics background, a keen eye for detail, and a love for crafting seamless, user-centric applications.
 
